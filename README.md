@@ -2,7 +2,6 @@
 // © copyright 2017  MARIANGEL MORA. All Rights Reserved.
 // Author: Mariangel Mora Casanova
 // Date: 09-11-2017
-// Contact: mariangelmorac@gmail.com
 // Description: short description
 #include <iostream>
 #include <windows.h> // access Sleep(), Beep(), SetConsoleTitle() … library functions
